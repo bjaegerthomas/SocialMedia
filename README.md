@@ -45,6 +45,7 @@
   ## Tests
   This link will show you a walkthrough video testing the request routes usiing Insomnia:
   
+  https://vimeo.com/1065300046/89b5efc39d?share=copy
 
   ## Questions
   - GitHub: [bjaegerthomas](https://github.com/bjaegerthomas)
